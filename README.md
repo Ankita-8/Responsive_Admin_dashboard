@@ -4,4 +4,4 @@
  
 
  # Demo of App
-![Responsive_Admin_dashboard] (image.png)
+![Responsive_Admin_dashboard](C:\Users\Dell\projects\Responsive_Admin_dashboard\image.png)
