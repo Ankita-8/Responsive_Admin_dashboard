@@ -4,4 +4,4 @@
  
 
  # Demo of App
-![Responsive_Admin_dashboard](C:\Users\Dell\projects\Responsive_Admin_dashboard\image.png)
+![Responsive_Admin_dashboard](https://drive.google.com/drive/folders/1zjumpyeWYImsga3PzP8eBName43ogKZz?usp=sharing)
